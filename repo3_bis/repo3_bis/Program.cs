@@ -13,7 +13,10 @@ namespace repo3_bis
             Console.WriteLine("Repo3");
             Console.WriteLine("version 2");
             Console.WriteLine("Hehehe je suis là ! Sahar");
+            Console.WriteLine("version 3");
             Console.WriteLine("by kim");
+            Console.WriteLine("Modified by Rachida");
+            Console.Read();
 
         }
     }
