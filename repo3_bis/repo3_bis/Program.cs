@@ -15,6 +15,7 @@ namespace repo3_bis
             Console.WriteLine("by kim");
             Console.WriteLine("Modified by Rachida");
             Console.WriteLine("Hehehe je suis là ! Sahar");
+            Console.WriteLine("it's me");
             Console.WriteLine("Hey Sahar, pull it up");
             Console.Read();
 
