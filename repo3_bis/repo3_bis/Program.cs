@@ -11,7 +11,7 @@ namespace repo3_bis
         static void Main(string[] args)
         {
             Console.WriteLine("Repo3");
-            Console.WriteLine("version 1");
+            Console.WriteLine("version 2");
             Console.WriteLine("by kim");
 
         }
